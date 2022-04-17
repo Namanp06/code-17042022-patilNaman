@@ -1,0 +1,17 @@
+[{
+   "Gender": "Male",
+   "HeightCm": 171,
+   "WeightKg": 96,
+   "BMI": "32.8",
+   "BMICategory": "Moderately obese",
+   "HealthRisk": "Medium risk"
+},
+{
+   "Gender": "Male",
+   "HeightCm": 161,
+   "WeightKg": 85,
+   "BMI": "32.8",
+   "BMICategory": "Moderately obese",
+   "HealthRisk": "Medium risk"
+}
+]
